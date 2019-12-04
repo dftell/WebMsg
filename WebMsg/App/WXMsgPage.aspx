@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WXMsgPage.aspx.cs" Inherits="WebMsg.App.WXMsgPage"  ValidateRequest="false" %>
